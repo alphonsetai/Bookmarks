@@ -8,4 +8,8 @@
 
 1. [C++ Cool Tricks Which makes your code compact](https://www.quora.com/What-are-some-cool-C++-tricks).
 
+> **CP**
+
+1. [Improving CP tips](https://www.quora.com/What-is-the-best-strategy-to-improve-my-skills-in-competitive-programming-in-2-3-months).
+
 
