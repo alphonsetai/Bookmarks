@@ -2,6 +2,7 @@
 > **General**
 
 1. [Reddit C++](https://www.reddit.com/r/cpp/).
+2. [BogoToBogo](http://www.bogotobogo.com/DesignPatterns/introduction.php).
 
 > **GitHub**
  
