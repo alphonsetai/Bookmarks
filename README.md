@@ -1,4 +1,8 @@
 
+> **General**
+
+1. [Reddit C++](https://www.reddit.com/r/cpp/).
+
 > **GitHub**
  
 1. [.md file formating help](https://help.github.com/articles/basic-writing-and-formatting-syntax/).
