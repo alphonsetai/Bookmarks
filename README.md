@@ -3,6 +3,7 @@
 
 1. [Reddit C++](https://www.reddit.com/r/cpp/).
 2. [BogoToBogo](http://www.bogotobogo.com/DesignPatterns/introduction.php).
+3. [Freelance C & C++](https://www.quora.com/What-are-the-domains-in-which-one-can-become-a-Freelancer-if-one-knows-C-and-C++).
 
 > **GitHub**
  
