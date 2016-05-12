@@ -13,6 +13,7 @@
 > **C++**
 
 1. [C++ Cool Tricks Which makes your code compact](https://www.quora.com/What-are-some-cool-C++-tricks).
+2. [C++ Open Source Projects](https://www.quora.com/What-are-the-best-medium-size-open-source-C++-projects-for-a-beginner-to-learn-template-and-other-advanced-C++-techniques).
 
 > **CP**
 
