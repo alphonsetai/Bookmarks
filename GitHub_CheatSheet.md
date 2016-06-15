@@ -18,34 +18,37 @@ Step 3) git am <patch name> OR git am <patch name> --reject
 
 > **Abort failed patch**
 
-git am --abort
+```git am --abort```
 
 > **Create all commit in form of patches**
 
-Git format-patch –[no of commits]
+```Git format-patch –[no of commits]```
 
 > **Create new branch**
 
-Git checkout –b < branch name > < master branch to sync with >
+```Git checkout –b <branch name> <master branch to sync with>```
 Eg:
-Git checkout -b Vishal master
+```Git checkout -b Vishal master```
 
 > **To list the branches that exist & to see current brach**
 
-Git branch -a
+```Git branch -a```
 
 > **Rename a branch**
 
-Git branch –m <oldname> <newname>
+```Git branch –m <oldname> <newname>```
 
 > Switch a branch
-Git checkout <branch_Name>
+
+```Git checkout <branch_Name>```
 
 > Reset Branch to particular commit
-Git reset –hard <commit_id>
+
+```Git reset –hard <commit_id>```
 
 > Add multiple file (INTERACTIVE) to Staging area
-Git add  –i
+
+```Git add  –i```
 Step 1 ) Press 2(update menu)
 Step 2 ) Check for files separated by commas(like 1,3,7) OR 1 to N separated by dash(like 1-10)
 Step 3 ) Press Enter  
