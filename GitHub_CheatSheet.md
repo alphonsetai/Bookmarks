@@ -55,5 +55,7 @@ Eg:
 ```Git add  –i```
 
 Step 1 ) Press 2(update menu)
+
 Step 2 ) Add files separated by commas(like 1,3,7) OR 1 to N separated by dash(like 1-10)
+
 Step 3 ) Press Enter  
