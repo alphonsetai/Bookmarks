@@ -1,26 +1,26 @@
 
 > **Create new branch**
 
-```Git checkout –b [BRANCH_NAME] [MASTER_BRANCH_TO_SYNC_WITH]```
+```git checkout –b [BRANCH_NAME] [MASTER_BRANCH_TO_SYNC_WITH]```
 Eg:
-```Git checkout -b Vishal master```
+```git checkout -b Vishal master```
 
 > **List all branches**
 
-```Git branch -a``` 
+```git branch -a``` 
  *Note:* '*' mark on current brach
 
 > **Rename a branch**
 
-```Git branch –m [OLD_NAME] [NEW_NAME]```
+```git branch –m [OLD_NAME] [NEW_NAME]```
 
 > **Switch a branch**
 
-```Git checkout [BRANCH_NAME]```
+```git checkout [BRANCH_NAME]```
 
 > **Delete a branch**
 
-```Git branch –D [BRANCH_NAME]```
+```git branch –D [BRANCH_NAME]```
 
 > **Create patch**
 
@@ -50,15 +50,15 @@ Eg:
 
 > **Create all commit in form of patches**
 
-```Git format-patch –[NO_OF_COMMIT]```
+```git format-patch –[NO_OF_COMMIT]```
 
 > **Reset Branch to particular commit**
 
-```Git reset –hard [COMMIT_ID]```
+```git reset –hard [COMMIT_ID]```
 
 > **Add multiple file (INTERACTIVE) to Staging area**
 
-```Git add  –i```
+```git add  –i```
 
 Step 1 ) Press 2(update menu)
 
