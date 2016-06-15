@@ -5,9 +5,10 @@
 Eg:
 ```Git checkout -b Vishal master```
 
-> **To list the branches that exist & to see current brach**
+> **List all branches**
 
-```Git branch -a```
+```Git branch -a``` 
+ *Note:* '*' mark on current brach
 
 > **Rename a branch**
 
@@ -16,6 +17,10 @@ Eg:
 > **Switch a branch**
 
 ```Git checkout <branch_Name>```
+
+> **Delete a branch**
+
+```Git branch –D <branch_name>```
 
 > **Create patch**
 
