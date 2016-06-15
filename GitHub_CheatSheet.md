@@ -20,8 +20,10 @@ Eg:
 > **Create patch**
 
 ```git add [all_changed_file_name]```
+
 ```git commit –s```
 *Note:* Enter msg for commit changes
+
 ```git format-patch -1```
 *Note:* Create patch of last commit
 
@@ -29,8 +31,10 @@ Eg:
 
 ```git apply --stat [patch_name.patch]```
 *Note:* Give you about state of changes deletion in insertion
+
 ```git apply --check [patch_name.patch]```
 *Note:* Check for errors on applying patch in advance
+
 ```git am [patch_name.patch] OR git am [patch_name.patch] --reject```
 *Note:* --reject option will create reject file which cant be patched automatically
 
@@ -49,6 +53,7 @@ Eg:
 > **Add multiple file (INTERACTIVE) to Staging area**
 
 ```Git add  –i```
+
 Step 1 ) Press 2(update menu)
 Step 2 ) Add files separated by commas(like 1,3,7) OR 1 to N separated by dash(like 1-10)
 Step 3 ) Press Enter  
