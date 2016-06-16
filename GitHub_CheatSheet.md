@@ -104,5 +104,5 @@ goto Directory2 ----Note: Don't get in Directory2
 
 This patch creates reject files which will cant be modified automatically
 
-
+Note: Name of Directories should make same if not patching properly
 
