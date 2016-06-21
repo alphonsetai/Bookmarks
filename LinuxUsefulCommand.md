@@ -4,4 +4,6 @@
 
 ```awk '{ sub("\r$", ""); print }' windowsFile.txt > unixFile.txt```
 
+> **Process**
 
+```ps -au | grep [USERNAME]```
