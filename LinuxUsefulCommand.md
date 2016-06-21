@@ -1,8 +1,6 @@
-> File Compatibility
+> **File Compatibility**
 
-```
-1. awk 'sub("$", "\r")' unixFile.txt > windowsFile.txt
-2. awk '{ sub("\r$", ""); print }' windowsFile.txt > unixFile.txt
-```
+```awk 'sub("$", "\r")' unixFile.txt > windowsFile.txt```
+```awk '{ sub("\r$", ""); print }' windowsFile.txt > unixFile.txt```
 
 
