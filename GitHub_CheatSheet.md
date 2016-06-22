@@ -52,6 +52,14 @@ Eg:
 
 ```git format-patch –[NO_OF_COMMIT]```
 
+> **Check Patch & Clean Patch**
+
+```~/linux-[VERSION]/scripts/checkpatch.pl [PATCH_NAME.patch]```
+*Note:* It is a tool to check your coding style match Linux coding style or not. You can use -help to see what options you can use. After it check your file, the tool prints a result like compile result. The result show you which line has coding style errors and warnings, and reminds you how to modify your code. And also you can modify the script tool to match your own coding style.
+
+```~/linux-[VERSION]/scripts/cleanpatch [PATCH_NAME.patch]```
+*Note:* For removing with space error
+
 > **Reset Branch to particular commit**
 
 ```git reset –hard [COMMIT_ID]```
