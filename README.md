@@ -24,4 +24,6 @@
 > **Linux**
 
 1. [Linux Useful Commands](https://github.com/VisheshPatel/Bookmarks/blob/master/LinuxUsefulCommand.md).
+2. [Linux System Programming](https://www.gitbook.com/book/devnaga/linux-systems-programming-with-c/details).
+3. [Linux Inside](https://www.gitbook.com/book/0xax/linux-insides/details).
 
