@@ -21,10 +21,11 @@
 ```nm -n [ELF_file]```
 *Note:-n option sort symbols by address*
 
-*Symbol Table Information*
+*Example : *
 
-[VirtualAddress]        [SymbolType]    [SymbolName]
-0000000000601038        B                __bss_start
+[VirtualAddress]        [SymbolType]      [SymbolName]
+
+0000000000601038        B                 __bss_start
 
 SymbolType : Lower case = local & Upper case = external
 
