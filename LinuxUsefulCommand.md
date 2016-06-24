@@ -8,17 +8,18 @@
 
 ```ps -au | grep [USERNAME]```
 
-> ```ln -sf [target] [source]```
+> Create Soft & Hard Links
 
-Create Soft & Hard Links
+```ln -sf [target] [source]```
 
 *Soft Links(-s Parameter)* : point to the file name
 
 *Hard Links(By Default)*   : point to the file contents(share the same inode)
 
-> ```nm -n [ELF_file]```
+> Symbol Table Information
 
--n option sort symbols by address
+```nm -n [ELF_file]```
+*Note:-n option sort symbols by address*
 
 *Symbol Table Information*
 <VirtualAddress>        <SymbolType>    <SymbolName>
@@ -26,10 +27,11 @@ Create Soft & Hard Links
 
 SymbolType : Lower case = local & Upper case = external
 
-> ```ar -t [libname.a]```
+> List of Object include in static lib
 
-Get the list of Object include in static lib
+```ar -t [libname.a]```
 
-> ```ldd [libname.so]  OR ldd [Executable]```
+> List of shared Object used
 
-Get the list of shared Object used
+```ldd [libname.so]  OR ldd [Executable]```
+
