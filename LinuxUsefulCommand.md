@@ -23,7 +23,7 @@
 
 *Symbol Table Information*
 
-<VirtualAddress>        <SymbolType>    <SymbolName>
+[VirtualAddress]        [SymbolType]    [SymbolName]
 0000000000601038        B                __bss_start
 
 SymbolType : Lower case = local & Upper case = external
