@@ -21,7 +21,7 @@
 ```nm -n [ELF_file]```
 *Note:-n option sort symbols by address*
 
-*Example : *
+*Example*
 
 [VirtualAddress]        [SymbolType]      [SymbolName]
 
