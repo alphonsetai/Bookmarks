@@ -87,6 +87,7 @@ git describe --tags
 git name-rev --tags --name-only $(git rev-parse HEAD)
 git status
 git log
+git log --pretty=oneline --abbrev-commit
 ```
 
 
