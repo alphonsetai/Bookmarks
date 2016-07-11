@@ -40,8 +40,13 @@ SymbolType : Lower case = local & Upper case = external
 > **File Transfer between PCs**
 
 ```scp [file_name] [user]@[IP]:[location]```
+
 i.e.```scp image.jpg vishal@192.168.0.1:/home/vishal```
 
 > **tar file(compress)**
 
 ```tar -cvf [file_name].tar [file_name]```
+
+> **Untar file(de-compress)**
+
+```tar -xvf [file_name].tar```
