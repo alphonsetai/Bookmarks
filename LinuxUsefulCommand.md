@@ -37,3 +37,11 @@ SymbolType : Lower case = local & Upper case = external
 
 ```ldd [libname.so]  OR ldd [Executable]```
 
+> **File Transfer between PCs**
+
+```scp [file_name] [user]@[IP]:[location]```
+i.e.```scp image.jpg vishal@192.168.0.1:/home/vishal```
+
+> **tar file(compress)**
+
+```tar -cvf [file_name].tar [file_name]```
