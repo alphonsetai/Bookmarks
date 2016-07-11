@@ -9,6 +9,11 @@ Eg:
 
 ```git branch -a``` 
  *Note:* '*' mark on current brach
+ 
+ > **Edit Last Commit**
+
+```git commit --amend -m "New commit message"``` 
+ *Note:* Edit last commit
 
 > **Rename a branch**
 
