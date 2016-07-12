@@ -1,6 +1,6 @@
 > **Gcc Compiler Options**
 
-[All Compiler Options -c -o -E -Wall --Werror & 15 more](http://www.thegeekstuff.com/2012/10/gcc-compiler-options/)
+[All Compiler Options -c, -o, -E, -Wall, --Werror & 15 more](http://www.thegeekstuff.com/2012/10/gcc-compiler-options/)
 
 > **File Compatibility**
 
