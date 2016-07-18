@@ -18,3 +18,8 @@
 yum whatprovides */pyuic4
 yum install PyQt4-devel
 ```
+### Running QT Designer in Fedora
+
+`# designer-qt4 `
+OR
+`designer`
