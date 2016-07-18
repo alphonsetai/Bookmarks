@@ -26,3 +26,6 @@
 1. [Linux System Programming](https://www.gitbook.com/book/devnaga/linux-systems-programming-with-c/details).
 2. [Linux Inside](https://www.gitbook.com/book/0xax/linux-insides/details).
 
+> **GUI**
+
+1. [PyQt Installation](https://github.com/VisheshPatel/Bookmarks/blob/master/PyQt%20Installation.md).
