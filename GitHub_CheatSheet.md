@@ -100,7 +100,7 @@ git log --pretty=oneline --abbrev-commit
 
 > Statement
 - Library(v1.0) + 2 Yr Development =  Directory1
-- Library(v9.0-New_Release) + Library_Vendor_Development = Directory2
+- Library(v9.0-New_Release + Library_Vendor_Development) = Directory2
 - Problem want to move our development in new library
 
 Step 1) Extracting Only 2 Yr Development from Directory1
