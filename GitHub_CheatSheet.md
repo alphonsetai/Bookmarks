@@ -103,14 +103,15 @@ git log --pretty=oneline --abbrev-commit
 - Library(v9.0-New_Release + Library_Vendor_Development) = Directory2
 - Problem want to move our development in new library
 
-Step 1) Extracting Only 2 Yr Development from Directory1
+- Step 1) Extracting Only 2 Yr Development from Directory1
 
 Create Directory1_1 = First Initial Commit
+
 Create Directory1_2 = Last Development changes Commit
 
 ```diff -Naur Directory1_1 Directory1_2 > Diff.patch```
 
-Step 2) Applying 2 Yr Development to Directory2
+- Step 2) Applying 2 Yr Development to Directory2
 
 goto Directory2 ----Note: Don't get in Directory2
 
