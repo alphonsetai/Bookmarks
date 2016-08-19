@@ -96,7 +96,7 @@ git log --pretty=oneline --abbrev-commit
 ```
 
 
-## Manual Patching 
+## Manual Patching of 2 Folder
 
 > Statement
 - Library(v1.0) + 2 Yr Development =  Directory1
@@ -121,3 +121,4 @@ This patch creates reject files which will cant be modified automatically
 
 Note: Name of Directories should make same if not patching properly
 
+[Stack Overflow](http://stackoverflow.com/questions/2460558/creating-a-patch-file-from-a-diff-of-2-folders)
