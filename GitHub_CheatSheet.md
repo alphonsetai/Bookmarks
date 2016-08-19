@@ -1,3 +1,6 @@
+> **Amending the most recent commit**
+
+```git commit --amend -m "New commit message"```
 
 > **Create new branch**
 
