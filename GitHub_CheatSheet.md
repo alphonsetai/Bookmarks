@@ -1,36 +1,36 @@
-> **Amending the most recent commit**
+### Amending the most recent commit
 
 ```git commit --amend -m "New commit message"```
 
-> **Create new branch**
+### Create new branch
 
 ```git checkout –b [BRANCH_NAME] [MASTER_BRANCH_TO_SYNC_WITH]```
 Eg:
 ```git checkout -b Vishal master```
 
-> **List all branches**
+### List all branches
 
 ```git branch -a``` 
  *Note:* '*' mark on current brach
  
- > **Edit Last Commit**
+ ### Edit Last Commit
 
 ```git commit --amend -m "New commit message"``` 
  *Note:* Edit last commit
 
-> **Rename a branch**
+### Rename a branch
 
 ```git branch –m [OLD_NAME] [NEW_NAME]```
 
-> **Switch a branch**
+### Switch a branch
 
 ```git checkout [BRANCH_NAME]```
 
-> **Delete a branch**
+### Delete a branch
 
 ```git branch –D [BRANCH_NAME]```
 
-> **Create patch**
+### Create patch
 
 ```git add [ALL_CHANGED_FILES]```
 *Note:* Check all changed files by 'git status'
@@ -41,7 +41,7 @@ Eg:
 ```git format-patch -1```
 *Note:* Create patch of last commit
 
-> **Applying Patch**
+### Applying Patch
 
 ```git apply --stat [PATCH_NAME.patch]```
 *Note:* Give you about state of changes deletion in insertion
@@ -52,15 +52,15 @@ Eg:
 ```git am [PATCH_NAME.patch] OR git am [PATCH_NAME.patch] --reject```
 *Note:* --reject option will create reject file which cant be patched automatically
 
-> **Abort failed patch**
+### Abort failed patch
 
 ```git am --abort```
 
-> **Create all commit in form of patches**
+### Create all commit in form of patches
 
 ```git format-patch –[NO_OF_COMMIT]```
 
-> **Check Patch & Clean Patch**
+### Check Patch & Clean Patch
 
 ```~/linux-[VERSION]/scripts/checkpatch.pl [PATCH_NAME.patch]```
 *Note:* It is a tool to check your coding style match Linux coding style or not. You can use -help to see what options you can use. After it check your file, the tool prints a result like compile result. The result show you which line has coding style errors and warnings, and reminds you how to modify your code. And also you can modify the script tool to match your own coding style.
@@ -68,11 +68,11 @@ Eg:
 ```~/linux-[VERSION]/scripts/cleanpatch [PATCH_NAME.patch]```
 *Note:* For removing with space error
 
-> **Reset Branch to particular commit**
+### Reset Branch to particular commit
 
 ```git reset –hard [COMMIT_ID]```
 
-> **Add multiple file (INTERACTIVE) to Staging area**
+### Add multiple file (INTERACTIVE) to Staging area
 
 ```git add  –i```
 
@@ -82,7 +82,7 @@ Step 2 ) Add files separated by commas(like 1,3,7) OR 1 to N separated by dash(l
 
 Step 3 ) Press Enter  
 
-> **Miscellaneous**
+### Miscellaneous
 
 ```
 git config --global user.name [NAME]
