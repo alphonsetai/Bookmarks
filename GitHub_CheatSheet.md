@@ -1,3 +1,49 @@
+### Merging Commits or Patches
+
+Say your history is
+```
+$ git log --pretty=oneline
+a931ac7c808e2471b22b5bd20f0cad046b1c5d0d c
+b76d157d507e819d7511132bdb5a80dd421d854f b
+df239176e1a2ffac927d8b496ea00d5488481db5 a
+```
+Running `git rebase --interactive HEAD~X `(X = No of Commits You Want to Merge) gives you an editor with
+```
+pick b76d157 b
+pick a931ac7 c
+
+# Rebase df23917..a931ac7 onto df23917
+#
+# Commands:
+#  p, pick = use commit
+#  r, reword = use commit, but edit the commit message
+#  e, edit = use commit, but stop for amending
+#  s, squash = use commit, but meld into previous commit
+#  f, fixup = like "squash", but discard this commit's log message
+#
+# If you remove a line here THAT COMMIT WILL BE LOST.
+# However, if you remove everything, the rebase will be aborted.
+#
+```
+Now `squash` all commits except in which you want to merge all commits here `b`
+```
+pick b76d157 b
+squash a931ac7 c
+```
+and save-quitting your editor, you'll get another editor whose contents are
+```
+# This is a combination of 2 commits.
+# The 1st commit's message is:
+
+b
+
+# This is the 2nd commit message:
+
+c
+. . . . 
+```
+Saving & Quiting will complete your work
+
 ### Amending the most recent commit
 
 ```git commit --amend -m "New commit message"```
