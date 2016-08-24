@@ -153,7 +153,7 @@ Create Directory1_1 = First Initial Commit
 
 Create Directory1_2 = Last Development changes Commit
 
-```diff -Naur Directory1_1 Directory1_2 > Diff.patch```
+```diff -Nur Directory1_1 Directory1_2 > Diff.patch```
 
 - Step 2) Applying 2 Yr Development to Directory2
 
