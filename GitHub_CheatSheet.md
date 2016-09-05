@@ -1,3 +1,8 @@
+### See Changes of Particular Commit
+
+```
+git show [COMMIT_ID]
+```
 ### Merging Commits or Patches
 
 Say your history is
