@@ -1,3 +1,9 @@
+### Extracting patch of particular commit
+
+```
+git format-patch -1 [COMMIT_ID]
+```
+
 ### See Changes of Particular Commit
 
 ```
