@@ -1,3 +1,15 @@
+### Pushing Patch
+
+```
+git push origin [Commit ID]:master
+```
+
+### Changing Date of Patch
+
+```
+git commit --amend --date="Thu Sep  8 14:05:50 IST 2016"
+```
+
 ### Extracting patch of particular commit
 
 ```
