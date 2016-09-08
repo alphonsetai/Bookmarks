@@ -1,7 +1,7 @@
 ### Pushing Patch
 
 ```
-git push origin [Commit ID]:master
+git push origin [COMMIT_ID]:[BRANCH]
 ```
 
 ### Changing Date of Patch
