@@ -29,3 +29,7 @@
 > **GUI**
 
 1. [PyQt Installation](https://github.com/VisheshPatel/Bookmarks/blob/master/PyQt%20Installation.md).
+
+> **C**
+
+1. [How do judge experienced c programmer ?](https://www.quora.com/How-do-you-judge-an-experienced-C-programmer-by-only-five-questions)
