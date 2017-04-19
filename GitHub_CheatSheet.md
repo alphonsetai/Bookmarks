@@ -1,3 +1,15 @@
+### Creating Branch Locally
+
+```
+git checkout –b [BRANCH_NAME]
+```
+
+### Pushing Local Branch 
+
+```
+git push –u origin [BRANCH_NAME]
+```
+
 ### Pushing Patch
 
 ```
