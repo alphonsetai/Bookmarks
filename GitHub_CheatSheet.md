@@ -1,3 +1,10 @@
+### Pick pathces on different branch & apply on current branch
+
+```
+git cherry-pick [COMMIT_1] [COMMIT_2] [COMMIT_3] . . . .  [COMMIT_N]
+git push origin  [COMMIT_N]:[BRANCH_NAME]
+```
+
 ### Creating Branch Locally
 
 ```
