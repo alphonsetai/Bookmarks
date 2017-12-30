@@ -8,7 +8,6 @@
  
 1. [.md file formating help](https://help.github.com/articles/basic-writing-and-formatting-syntax/).
 2. [Learn GitHub in 15 min](https://try.github.io/levels/1/challenges/1).
-3. [GitHub CheatSheet](https://github.com/VisheshPatel/Bookmarks/blob/master/GitHub_CheatSheet.md).
 
 > **C++**
 
