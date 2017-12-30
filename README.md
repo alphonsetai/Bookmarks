@@ -3,12 +3,11 @@
 
 1. [Reddit C++](https://www.reddit.com/r/cpp/).
 2. [BogoToBogo](http://www.bogotobogo.com/DesignPatterns/introduction.php).
-3. [Freelance C & C++](https://www.quora.com/What-are-the-domains-in-which-one-can-become-a-Freelancer-if-one-knows-C-and-C++).
 
 > **GitHub**
  
 1. [.md file formating help](https://help.github.com/articles/basic-writing-and-formatting-syntax/).
-2. [Learn GitHub in 15 min](https://try.github.io/levels/1/challenges/).
+2. [Learn GitHub in 15 min](https://try.github.io/levels/1/challenges/1).
 3. [GitHub CheatSheet](https://github.com/VisheshPatel/Bookmarks/blob/master/GitHub_CheatSheet.md).
 
 > **C++**
