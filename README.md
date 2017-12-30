@@ -31,3 +31,9 @@
 > **C**
 
 1. [How do judge experienced c programmer ?](https://www.quora.com/How-do-you-judge-an-experienced-C-programmer-by-only-five-questions)
+
+> **Sublime Plugin**
+
+1. [Code Atlas for C++ code visualization](https://github.com/league1991/CodeAtlasSublime)
+2. [Serial Number](https://github.com/VisheshPatel/DeveloperUseful/blob/master/Sublime%20Text%20Plugin%20:%20Serial%20Number.md)
+3. [Tabularize](https://github.com/VisheshPatel/DeveloperUseful/blob/master/Sublime%20Text%20Plugin%20:%20Tabularize.md)
