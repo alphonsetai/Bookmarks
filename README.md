@@ -42,3 +42,4 @@
 > **Traading**
 
 1. [Math behind all technical indicators](https://technicianapp.com/resources).
+2. [Python Code For All Technical Indicators](https://github.com/arkochhar/Technical-Indicators).
