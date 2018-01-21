@@ -42,4 +42,5 @@
 > **Traading**
 
 1. [Math behind all technical indicators](https://technicianapp.com/resources).
-2. [Python Code For All Technical Indicators](https://github.com/arkochhar/Technical-Indicators).
+2. [Python Code For Some Technical Indicators](https://github.com/arkochhar/Technical-Indicators).
+3. [panda Based Tachnical Analysis Python Lib Of All Indicators](https://github.com/femtotrader/pandas_talib).
