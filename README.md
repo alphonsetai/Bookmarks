@@ -44,3 +44,4 @@
 1. [Math behind all technical indicators](https://technicianapp.com/resources).
 2. [Python Code For Some Technical Indicators](https://github.com/arkochhar/Technical-Indicators).
 3. [panda Based Tachnical Analysis Python Lib Of All Indicators](https://github.com/femtotrader/pandas_talib).
+4. [What PiBridge & Amibroker ?](https://tradingqna.com/t/what-is-ami-broker-what-is-pi-bridge-how-they-help-us-to-trade/2644/2).
