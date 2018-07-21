@@ -20,7 +20,7 @@
 1. [Improving CP tips](https://www.quora.com/What-is-the-best-strategy-to-improve-my-skills-in-competitive-programming-in-2-3-months).
 2. [How do I start competitive programming?](https://www.quora.com/How-do-I-start-competitive-programming-5).
 3. [Algorithms required to solve all problems (using C++)](https://www.quora.com/What-are-the-algorithms-required-to-solve-all-problems-using-C++-in-any-competitive-coding-contest)
-
+4. [Reddit Algo & DS required to solve all problem](https://www.reddit.com/r/programming/comments/2kax45/the_algorithms_required_to_solve_all_problems/)
 > **Linux**
 
 1. [Linux System Programming](https://www.gitbook.com/book/devnaga/linux-systems-programming-with-c/details).
